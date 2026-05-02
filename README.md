@@ -16,7 +16,7 @@ El repositorio contiene:
 
 El trabajo se centra en el análisis de informes elaborados por estudiantes de un curso introductorio de Física Experimental. El objetivo general es identificar y caracterizar habilidades científicas evidenciadas en las producciones escritas del estudiantado mediante técnicas de Inteligencia Artificial, en particular de Procesamiento del Lenguaje Natural.
 
-Las clases consideradas para la clasificación de enunciados se vinculan con habilidades científicas asociadas al trabajo experimental, el análisis de datos, el análisis de gráficos, la evaluación de la incertidumbre y la evaluación del diseño o procedimiento experimental.
+Las clases consideradas para la clasificación de enunciados se vinculan con habilidades científicas propias de la medición en laboratorio, el análisis de datos, el análisis de gráficos, la evaluación de la incertidumbre y la evaluación del diseño o procedimiento experimental.
 
 ## Métricas
 
