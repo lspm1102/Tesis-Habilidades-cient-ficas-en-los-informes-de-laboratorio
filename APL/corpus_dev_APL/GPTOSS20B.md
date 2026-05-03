@@ -10,6 +10,8 @@
 | **Macro avg** | **0.80** | **0.71** | **0.74** | **238** |
 | **Weighted avg** | **0.87** | **0.88** | **0.87** | **238** |
 
+El total de enunciados clasificados no es de 239 porque el modelo puede en ocasiones no responder únicamente 0 o 1. 
+
 ### Matriz de confusión GPT-OSS corpus de desarrollo usando solo prompt, sin ejemplos
 
 | Etiqueta real | Predicción: clase 0 | Predicción: clase 1 |
