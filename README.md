@@ -1,4 +1,4 @@
-# Tesis: Habilidades científicas en los informes de laboratorio
+# Habilidades científicas en Física Experimental: una metodología automatizada para el análisis de informes de laboratorio.
 
 Este repositorio reúne materiales asociados al análisis automatizado de habilidades científicas en informes de laboratorio, desarrollado en el marco de la tesis de maestría: **Habilidades científicas en Física Experimental: una metodología automatizada para el análisis de informes de laboratorio.**
 
