@@ -20,7 +20,7 @@ El total de enunciados clasificados no es de 239 porque el modelo puede en ocasi
 | Real 1 | 21 | 18 |
 
 
-### Reporte de clasificación GPT-OSS DEV con SE-E5 + k-NN, usando 5 vecinos
+### Reporte de clasificación GPT-OSS DEV con SE-E5 + k-NN, usando 3 vecinos
 
 | Clase | Precisión | Recall | F1-score | Soporte |
 |---|---:|---:|---:|---:|
@@ -30,7 +30,7 @@ El total de enunciados clasificados no es de 239 porque el modelo puede en ocasi
 | **Macro avg** | **0.85** | **0.79** | **0.82** | **239** |
 | **Weighted avg** | **0.90** | **0.91** | **0.90** | **239** |
 
-### Matriz de confusión GPT-OSS DEV con SE-E5 + k-NN, usando 5 vecinos
+### Matriz de confusión
 
 | Etiqueta verdadera | Predicción: clase 0 | Predicción: clase 1 |
 |---|---:|---:|
