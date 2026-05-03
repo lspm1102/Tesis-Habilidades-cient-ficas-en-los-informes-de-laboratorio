@@ -12,10 +12,5 @@ Las clases consideradas para la clasificación de enunciados se vinculan con hab
 
 ## Organización del repositorio
 
-El repositorio se organiza en tres secciones principales:
-
-```text
-corpus_evaluacion/
-corpus_desarrollo/
-prompts/
-README.md
+El repositorio se organiza por clase utilizada para la clasificación. 
+Para cada clase se indican los resultados sobre el corpus de desarrollo y evaluación para cada método de clasificación. 
