@@ -1,6 +1,6 @@
 ### Resultados sobre el corpus de evaluación
 
-#### Reporte de clasificación APL TEST GPT-OSS con k-NN, usando 5 ejemplos por clase
+#### Reporte de clasificación APL TEST GPT-OSS con k-NN, usando 3 ejemplos por clase
 
 | Clase | Precisión | Recall | F1-score | Soporte |
 |---|---:|---:|---:|---:|
