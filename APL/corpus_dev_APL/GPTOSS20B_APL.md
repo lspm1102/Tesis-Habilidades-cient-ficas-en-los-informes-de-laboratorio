@@ -20,7 +20,7 @@ El total de enunciados clasificados no es de 239 porque el modelo puede en ocasi
 | Real 1 | 21 | 18 |
 
 
-### Reporte de clasificación GPT-OSS DEV con SE-E5 + k-NN, usando 3 vecinos
+### Reporte de clasificación GPT-OSS DEV con SE-E5 + k-NN, usando 3 vecinos por clase
 
 | Clase | Precisión | Recall | F1-score | Soporte |
 |---|---:|---:|---:|---:|
