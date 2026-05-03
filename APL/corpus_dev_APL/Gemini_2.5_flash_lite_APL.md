@@ -19,7 +19,7 @@ Resultados obtenidos con técnica de *prompting* que incluye ejemplos de cada cl
 
 
 
-### Reporte de clasificación — Gemini con ejemplos seleccionados mediante EmbeddingGemma + kNN con k=3
+### Reporte de clasificación — Gemini con ejemplos seleccionados mediante EmbeddingGemma + kNN con k=3, seleccionando 3 por clase
 
 | Clase | Precision | Recall | F1-score | Support |
 |---|---:|---:|---:|---:|
