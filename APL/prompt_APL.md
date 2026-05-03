@@ -1,8 +1,6 @@
 Si se utiliza el siguiente *prompt* al que se incorporan los ejemplos:
 
 ```text
-# Clasificador de Habilidades de Medición en Física Experimental
-
 Eres un clasificador experto en enunciados de Física Experimental.
 
 Tu tarea es simple: dado un enunciado, RESPONDES únicamente con el dígito `1` o `0`.
