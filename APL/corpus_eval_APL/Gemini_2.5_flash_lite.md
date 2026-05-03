@@ -16,5 +16,3 @@ Los resultados corresponden al uso de SE Gemma + kNN con tres ejemplos sobre el 
 |---|---:|---:|
 | Real 0 | 192 | 8 |
 | Real 1 | 14 | 36 |
-
-> Nota: en el texto original aparece `Real 4`, pero se corrigió a `Real 1` porque la clasificación es binaria.
