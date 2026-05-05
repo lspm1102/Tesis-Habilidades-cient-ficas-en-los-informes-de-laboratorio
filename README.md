@@ -14,3 +14,5 @@ Las clases consideradas para la clasificación de enunciados se vinculan con hab
 
 El repositorio se organiza por clase utilizada para la clasificación. 
 Para cada clase se indican los resultados sobre el corpus de desarrollo y evaluación para cada método de clasificación. 
+Se incluye para cada clase los prompts utilizados para los LLM.
+Se incorporan los resultados de la votación y clasificación de los informes del semestre.
