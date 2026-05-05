@@ -1,4 +1,4 @@
-### Prompt para LLaMA 3 8B Instruct — Clasificación del código EIM
+### Prompt para LLaMA 3 8B Instruct — Clasificación del código EIM (sin ejemplos).
 
 ```text
 Eres un clasificador experto en enunciados de Física Experimental.
