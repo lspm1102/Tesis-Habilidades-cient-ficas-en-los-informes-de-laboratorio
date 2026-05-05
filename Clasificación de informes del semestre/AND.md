@@ -1,5 +1,5 @@
 
-# Resultados clasificación sobre todos los informes AND
+# Resultados clasificación sobre todos los informes del semestre para la clase AND
 
 ## Estadísticas por práctica código AND
 
